@@ -7,6 +7,8 @@ public class sayhello {
 
         System.out.println("Say Hello, test repo");
 
+        System.out.println("Push this to the reop. All set!");
+
 
     }
 
